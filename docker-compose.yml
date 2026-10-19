@@ -1,6 +1,6 @@
 services:
   caddy:
-    image: iarekylew00t/caddy-cloudflare:latest
+    image: 580132/caddy-cloudflare-crowdsec:latest
     build: . # If you want build locally using docker-compose
     restart: unless-stopped
     environment:

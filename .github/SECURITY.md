@@ -31,7 +31,7 @@ Any security vulnerabilities must be fixed in the upstream Caddy project
 ## Reporting a Vulnerability
 
 For security related issues with **this project**, please report it privately
-using the [Report a Vulnerability](https://github.com/IAreKyleW00t/docker-caddy-cloudflare/security/advisories/new)
+using the [Report a Vulnerability](https://github.com/580132/caddy-cloudflare-crowdsec/security/advisories/new)
 form including as much detail as possible.
 
 For security related issues with **Caddy itself**, please report it to their
@@ -42,3 +42,7 @@ respective projects using their guidelines.
 For security related issues with the **Cloudflare module for Caddy**, please report it
 to their respective project using their guidelines.  
 <https://github.com/caddy-dns/cloudflare>
+
+For security related issues with the **CrowdSec bouncer for Caddy**, please report it
+to their respective project using their guidelines.  
+<https://github.com/hslatman/caddy-crowdsec-bouncer>
