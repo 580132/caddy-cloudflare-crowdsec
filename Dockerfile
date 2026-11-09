@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM caddy:2.11.7-builder AS builder
+FROM caddy:2.11.8-builder AS builder
 RUN xcaddy build \
   --with github.com/mholt/caddy-l4 \
   --with github.com/caddyserver/transform-encoder \
@@ -8,5 +8,5 @@ RUN xcaddy build \
   --with github.com/hslatman/caddy-crowdsec-bouncer/layer4@main \
   --with github.com/caddy-dns/cloudflare
 
-FROM caddy:2.11.7 AS caddy
+FROM caddy:2.11.8 AS caddy
 COPY --from=builder /usr/bin/caddy /usr/bin/caddy
