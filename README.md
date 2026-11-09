@@ -36,8 +36,8 @@ The following tags are the latest available for the
 `580132/caddy-cloudflare-crowdsec` image.
 
 <!--START-TAGS-->
-- [`latest`](https://github.com/580132/caddy-cloudflare-crowdsec/tree/v2.11.7)
-- [`2.11.7`](https://github.com/580132/caddy-cloudflare-crowdsec/tree/v2.11.7)
+- [`latest`](https://github.com/580132/caddy-cloudflare-crowdsec/tree/v2.11.8)
+- [`2.11.8`](https://github.com/580132/caddy-cloudflare-crowdsec/tree/v2.11.8)
 - [`2.11`](https://github.com/580132/caddy-cloudflare-crowdsec/tree/v2.11)
 - [`2`](https://github.com/580132/caddy-cloudflare-crowdsec/tree/v2)
 <!--END-TAGS-->
